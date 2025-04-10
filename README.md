@@ -39,8 +39,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=siddhanthnagrath1&show_icons=true&theme=radical" alt="Siddhanth's GitHub stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhanthnagrath1&layout=compact&theme=radical" height="165" />
 </p>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhanthnagrath1&layout=compact&theme=radical)  
 ---
 
 ## 🔗 Connect With Me
