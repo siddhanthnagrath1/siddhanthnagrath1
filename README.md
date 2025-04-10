@@ -14,12 +14,14 @@
 
 ## 🌟 Featured Projects
 
-### 🔹 [📘 Learn Python in 2 Hours](https://github.com/siddhanthnagrath1/Learn-python-in-2-hours)
-> A beginner-friendly, well-organized Jupyter notebook to get started with Python quickly.
+### 🔹 [🛰️ Automatic Diagnosis of Craters & Boulders from OHRC Images](https://github.com/siddhanthnagrath1/Automatic-diagnosis-of-craters-boulders-from-Orbiter-High-Resolution-Camera-OHRC-images-)
+> Uses high-resolution satellite imagery and computer vision techniques to identify craters and boulders on planetary surfaces.
 
-**Tech Stack**: Python, Jupyter Notebook
+**Tech Stack**: Python, OpenCV, Image Processing, SciKit-Learn
 
-![Python Badge](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python)
+![OpenCV](https://img.shields.io/badge/-OpenCV-white?style=for-the-badge&logo=opencv&logoColor=black)
+![ML](https://img.shields.io/badge/-ML-black?style=for-the-badge)
 
 ---
 
