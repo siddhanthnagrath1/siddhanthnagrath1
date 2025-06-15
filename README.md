@@ -3,9 +3,7 @@
   💻 Aspiring Developer | 📊 Data Enthusiast | 🎓 Student at Thapar Institute
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=siddhanthnagrath1&label=Profile%20views&color=0e75b6&style=flat" alt="siddhanthnagrath1" />
-</p>
+
 
 ---
 
