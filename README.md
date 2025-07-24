@@ -53,12 +53,6 @@
 
 ---
 
-## 🏅 GitHub Highlights
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=siddhanthnagrath1&theme=gruvbox&row=1&column=3" />
-</p>
-
 ---
 
 ## 📈 GitHub Stats
