@@ -28,19 +28,14 @@
 
 ---
 
-#### 🔹 [📄 DocuMind (Adobe Hackathon Finalist) – PDF Structure & Bot Training System](#)
+#### 🔹 [🌋 Earthquake Prediction Model using Machine Learning](https://github.com/siddhanthnagrath1/Earthquake-Prediction-Model-using-Machine-Learning)
+> Predicted earthquake magnitudes based on seismic attributes using supervised learning models like Random Forest and Linear Regression.  
+> Focused on data preprocessing, feature engineering, and evaluation metrics to refine prediction accuracy.
 
-> Built a smart PDF analyzer to extract structured heading hierarchy (Title, H1–H3) from academic and business documents.  
-> Lightweight model (<200MB) trained to classify layout-based heading levels. Extracted JSON used to train a contextual chatbot over custom documents using LangChain + OpenAI.
-
-**Note**: Project submitted to Adobe Hackathon 2025. Repository is private — available on request.
-
-**Tech Stack**: Python, PyMuPDF, XGBoost, LangChain, OpenAI  
+**Tech Stack**: Python, Scikit-learn, Pandas, Matplotlib  
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python)
-![XGBoost](https://img.shields.io/badge/-XGBoost-orange?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/-LangChain-000000?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/-OpenAI-003366?style=for-the-badge)
-![Hackathon](https://img.shields.io/badge/-Adobe%20Hackathon-red?style=for-the-badge)
+![ML](https://img.shields.io/badge/-Machine%20Learning-orange?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
@@ -55,6 +50,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
+---
 ---
 
 ## 📈 GitHub Stats
