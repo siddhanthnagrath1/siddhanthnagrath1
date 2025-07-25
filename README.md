@@ -3,8 +3,6 @@
   💻 Aspiring Developer | 📊 Data Enthusiast | 🎓 Student at Thapar Institute
 </p>
 
-
-
 ---
 
 ## 🚀 About Me
@@ -17,26 +15,32 @@
 
 ## 🌟 Featured Projects
 
-#### 🔹 [🛰 Automatic Diagnosis of Craters & Boulders from OHRC Images](https://github.com/siddhanthnagrath1/Automatic-diagnosis-of-craters-boulders-from-Orbiter-High-Resolution-Camera-OHRC-images-)
-> Utilized convolutional neural networks and trained **YOLO** to achieve **90% precision** in identifying geological features from planetary surface images.  
-> Generated **shape files** using GIS tools for boundary-level information, improving geospatial **mapping accuracy by 25%**.
+#### 🔹 [🧥 SmartStyle – Real-Time Virtual Try-On with YOLOv8 & OpenAI](https://github.com/siddhanthnagrath1/SmartStyle)
+> Developed a FastAPI-based web app to let users try on fashion items virtually using AI-powered similarity and detection systems.  
+> YOLOv8 is used for clothing detection and OpenAI embeddings help suggest similar outfits based on user input images.
 
-**Tech Stack**: Python, OpenCV, YOLOv8, GIS  
+**Tech Stack**: Python, YOLOv8, FastAPI, OpenAI, HTML/CSS  
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python)
-![OpenCV](https://img.shields.io/badge/-OpenCV-white?style=for-the-badge&logo=opencv&logoColor=black)
 ![YOLO](https://img.shields.io/badge/-YOLOv8-black?style=for-the-badge)
-![GIS](https://img.shields.io/badge/-GIS-green?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/-OpenAI-003366?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge)
+![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge)
 
 ---
 
-#### 🔹 [🌋 Earthquake Prediction Model using Machine Learning](https://github.com/siddhanthnagrath1/Earthquake-Prediction-Model-using-Machine-Learning)
-> Predicted earthquake magnitudes based on seismic attributes using supervised learning models like Random Forest and Linear Regression.  
-> Focused on data preprocessing, feature engineering, and evaluation metrics to refine prediction accuracy.
+#### 🔹 [📄 DocuMind (Adobe Hackathon Finalist) – PDF Structure & Bot Training System](#)
 
-**Tech Stack**: Python, Scikit-learn, Pandas, Matplotlib  
+> Built a smart PDF analyzer to extract structured heading hierarchy (Title, H1–H3) from academic and business documents.  
+> Lightweight model (<200MB) trained to classify layout-based heading levels. Extracted JSON used to train a contextual chatbot over custom documents using LangChain + OpenAI.
+
+**Note**: Project submitted to Adobe Hackathon 2024. Repository is private — available on request.
+
+**Tech Stack**: Python, PyMuPDF, XGBoost, LangChain, OpenAI  
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python)
-![ML](https://img.shields.io/badge/-Machine%20Learning-orange?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-orange?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/-OpenAI-003366?style=for-the-badge)
+![Hackathon](https://img.shields.io/badge/-Adobe%20Hackathon-red?style=for-the-badge)
 
 ---
 
@@ -50,8 +54,6 @@
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
----
 
 ---
 
@@ -72,12 +74,11 @@
   <a href="https://github.com/siddhanthnagrath1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+  <a href="https://www.linkedin.com/in/siddhanth-nagrath-7b3269258/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 ---
 
 <p align="center"><i>"Strive for progress, not perfection."</i></p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=36BCF7&width=435&lines=Thanks+for+visiting+my+profile!;Happy+coding+💻" />
-</p>
