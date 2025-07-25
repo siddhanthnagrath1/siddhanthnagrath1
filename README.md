@@ -33,7 +33,7 @@
 > Built a smart PDF analyzer to extract structured heading hierarchy (Title, H1–H3) from academic and business documents.  
 > Lightweight model (<200MB) trained to classify layout-based heading levels. Extracted JSON used to train a contextual chatbot over custom documents using LangChain + OpenAI.
 
-**Note**: Project submitted to Adobe Hackathon 2024. Repository is private — available on request.
+**Note**: Project submitted to Adobe Hackathon 2025. Repository is private — available on request.
 
 **Tech Stack**: Python, PyMuPDF, XGBoost, LangChain, OpenAI  
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python)
